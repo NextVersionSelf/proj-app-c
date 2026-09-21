@@ -1,4 +1,6 @@
 #ifndef POSITION_H
 #define POSITION_H
 
+enum Position {CATCHER, PITCHER, SHORTSTOP, UNASSIGNED};
+
 #endif
